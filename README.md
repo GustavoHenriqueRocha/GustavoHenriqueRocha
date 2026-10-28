@@ -24,6 +24,8 @@ Desenvolvo praticamente sozinho os sistemas internos da fábrica:
 
 #### 🎮 Projetos pessoais
 - **[modbus-painel](https://github.com/GustavoHenriqueRocha/modbus-painel)** — leitura Modbus TCP em Python puro e painel web ao vivo configurado por TOML, com simulador para testar sem CLP. Somente leitura, sem dependências
+- **[afd-ponto](https://github.com/GustavoHenriqueRocha/afd-ponto)** — lê o AFD do relógio de ponto (Portarias 1510 e 671) e calcula a jornada pela CLT: horas, extras, adicional noturno, intervalos e batidas faltando
+- **[reserva-ativa](https://github.com/GustavoHenriqueRocha/reserva-ativa)** — máquina reserva que assume serviços quando a principal cai e devolve quando ela volta, sem nunca deixar dois ativos (Linux e Windows)
 - **[TriAevum-Switch](https://github.com/GustavoHenriqueRocha/TriAevum-Switch)** — port nativo de *Zelda: Ocarina of Time 3D* (recompilado) para Nintendo Switch homebrew. Minha parte: backend gráfico **deko3d**, frame time estável a 60 fps e testes de regressão
 - **[pula-anuncio](https://github.com/GustavoHenriqueRocha/pula-anuncio)** — controle remoto pelo celular: touchpad, teclado e pular anúncio do YouTube sozinho (Linux/Hyprland e Windows)
 
